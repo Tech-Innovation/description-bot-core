@@ -1,0 +1,17 @@
+__pycache__
+
+*.egg-info
+
+env/
+
+inputs/*
+!inputs/.gitkeep
+
+models/*
+!models/.gitkeep
+
+outputs/*
+!outputs/.gitkeep
+
+logs/*
+!logs/.gitkeep
